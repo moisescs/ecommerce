@@ -1,0 +1,6 @@
+[08-Nov-2016 15:15:45 UTC] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/phpclass/Produto.class.php on line 2
+[08-Nov-2016 15:15:45 UTC] PHP Stack trace:
+[08-Nov-2016 15:15:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpclass/Produto.class.php:0
+[08-Nov-2016 15:15:45 UTC] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/phpclass/Produto.class.php on line 2
+[08-Nov-2016 15:15:45 UTC] PHP Stack trace:
+[08-Nov-2016 15:15:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/phpclass/Produto.class.php:0

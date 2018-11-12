@@ -1,0 +1,8 @@
+Host: localhost ou 127.0.0.1
+Bd: ecommerce
+User: root
+Pass: TecWeb@2016
+Map Charset = UTF-8 General_ci
+
+Obs.: Não apagar os arquivos tipo texto dessa Pasta
+
